@@ -29,6 +29,7 @@ variable "availability_zones" {
     ap-northeast-1 = ["ap-northeast-1a", "ap-northeast-1c"]
     ap-southeast-1 = ["ap-southeast-1a", "ap-southeast-1b"]
     ap-southeast-1 = ["ap-southeast-2a", "ap-southeast-2b", "ap-southeast-2c"]
+    ap-southeast-2 = ["ap-southeast-2a", "ap-southeast-2b"]
     ap-northeast-1 = ["ap-northeast-1a", "ap-northeast-1c"]
     ap-northeast-1 = ["ap-northeast-2a", "ap-northeast-2c"]
   }
